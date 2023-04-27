@@ -9,4 +9,3 @@ if __name__=='__main__':
     fifa_stats=calc_fifa_stats.calc_fs(playerinfo_n_stats[0],playerinfo_n_stats[1])
     calc_fifa_stats.print_stats(fifa_stats)
 
-    #CHANGE
