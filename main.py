@@ -2,6 +2,8 @@ import find_playername
 import find_stats
 import calc_fifa_stats
 
+
+#main
 if __name__=='__main__':
     player_ID=input("Enter ID of player: ").strip()
     player_name=find_playername.find_pn(player_ID)
